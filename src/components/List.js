@@ -1,6 +1,5 @@
 const List = (props) => {
   const { listItems, deleteListItem } = props;
-  console.log(333, listItems)
   return (
     <div className="container mt-3 mb-3">
       <div className="row align-items-center justify-content-center">
