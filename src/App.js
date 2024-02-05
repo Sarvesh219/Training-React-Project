@@ -38,6 +38,7 @@ function App() {
 
   const handleSubmit = () => {
     setShowValues(true);
+    console.log(555, showValues)
   };
 
   return (
